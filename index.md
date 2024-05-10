@@ -54,7 +54,7 @@ May 2023 - June 2023
 
 # Cover Letter for Hyperledger Caliper Documentation Mentorship Project
 
-Dear [Recipient's Name],
+Greetings,
 
 I am writing to express my interest in the mentorship project aimed at enhancing the accessibility, consistency, and comprehensiveness of the Caliper documentation within the Hyperledger ecosystem. As a third-year student at NIT Rourkela with a passion for coding and a keen interest in technical documentation, I believe this project aligns perfectly with my aspirations and skills.
 
@@ -70,5 +70,6 @@ I am excited about the opportunity to work alongside experienced mentors and col
 
 Thank you for considering my application. I look forward to the possibility of discussing my candidacy further.
 
-Sincerely,
+Sincerely,  
 Vivek Jha
+
