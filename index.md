@@ -1,6 +1,6 @@
 # Vivek Jha
 Software Developer  
-vivekjha3080@gmail.com | +91 9811368991 | Delhi, India  
+[Email](mailto:vivekjha3080@gmail.com) | [+91 9811368991](tel:+919811368991) | Delhi, India  
 [LinkedIn](https://www.linkedin.com/in/vivekjha) | [GitHub](https://github.com/vivekjha) | [Portfolio](https://vivekjha.com) | [LeetCode](https://leetcode.com/vivekjha)
 
 ## Education
@@ -72,4 +72,3 @@ Thank you for considering my application. I look forward to the possibility of d
 
 Sincerely,  
 Vivek Jha
-
